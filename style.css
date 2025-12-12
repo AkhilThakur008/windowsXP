@@ -44,7 +44,7 @@ body {
 #main .time {
   width: auto;
   height: 27px;
-  background-color: #3f92ff;
+  background-color: #5C99FF;
   margin-left: auto;
   display: flex;
   flex-direction: row;
@@ -78,7 +78,7 @@ body {
 .start-menu {
   width: 335px;
   height: auto;
-  background: white;
+  background: #CDE2F8;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
