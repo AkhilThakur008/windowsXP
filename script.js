@@ -71,16 +71,22 @@ window7.addEventListener('click', function() {
                     <div class="sidebar-right">
                         <ul>
                             <li>
-                                <img src="icons/instagram.webp" alt="">
+                            <a href="https://www.instagram.com/akhil_thakur.10/" target="_blank">
+                            <img src="icons/instagram.webp" alt="">
                                 <span>Instagram</span>
+                                </a>
                             </li>
                             <li>
+                            <a href="https://github.com/AkhilThakur008" target="_blank">
                                 <img src="icons/github.webp" alt="">
                                 <span>Github</span>
+                                </a>
                             </li>
                             <li>
+                            <a href="https://www.linkedin.com/in/akhil-thakur-3b8883369/" target="_blank">
                                 <img src="icons/linkedin.webp" alt="">
                                 <span>LinkedIn</span>
+                                </a>
                             </li>
                             <li>
                                 <img src="icons/recently-used.webp" alt="">

@@ -139,7 +139,7 @@ body {
 }
 
 .sidebar-left li,
-.sidebar-right li {
+.sidebar-right li  {
     display: flex;
     align-items: center;
     gap: 10px;
@@ -157,6 +157,15 @@ body {
     span {
         font-size: 14px;
     }
+}
+
+.sidebar-left li,
+.sidebar-right li, a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
 }
 
 .sidebar-left li:hover {
